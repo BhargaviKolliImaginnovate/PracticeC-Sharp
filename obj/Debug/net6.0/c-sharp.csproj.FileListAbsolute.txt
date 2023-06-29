@@ -1,0 +1,15 @@
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/c-sharp
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/ref/c-sharp.dll
+/home/developer/Desktop/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/home/developer/Desktop/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
